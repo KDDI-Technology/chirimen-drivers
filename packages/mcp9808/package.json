@@ -19,5 +19,10 @@
   },
   "devDependencies": {
     "rollup": "^4.0.0"
+  },
+  "dependencies": {
+    "@chirimen/mcp9808": "^1.0.0",
+    "chirimen": "^0.2.1",
+    "node-web-i2c": "^1.1.36"
   }
 }
